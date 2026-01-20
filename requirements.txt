@@ -1,0 +1,5 @@
+streamlit
+pypdf
+langchain
+langchain-google-genai
+pydantic>=2.12.0
